@@ -1,7 +1,7 @@
-👋 Hello random visitor
+### 👋 Hello random visitor
 I am Mudassir, an experienced programmer and a very inexperienced human.
 
-Why are you reading this ?
+## 💤Why are you reading this ?
 I have no idea.
 
 <!--
